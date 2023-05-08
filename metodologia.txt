@@ -1,0 +1,5 @@
+Metodologías Tradicionales
+- Cascada
+- Incremental
+- Prototipo
+- Espiral
