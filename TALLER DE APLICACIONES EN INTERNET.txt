@@ -8,4 +8,8 @@ Metodologías Tradicionales
 - Prototipo
 - Espiral
 
-Metodologías 
+Metodologías Ágiles
+- Scrum
+- Lean
+- XP
+- Kanban
