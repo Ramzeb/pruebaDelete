@@ -1,5 +1,11 @@
+Participante1: Ramiro Molina Zeballos
+Participante2: Ever Eloy Flores Gutierrez
+
+
 Metodologías Tradicionales
 - Cascada
 - Incremental
 - Prototipo
 - Espiral
+
+Metodologías 
